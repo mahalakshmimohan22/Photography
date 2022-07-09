@@ -1,0 +1,101 @@
+* {
+    padding: 0;
+    margin: 0;
+  }
+  body {
+    background-color: white ;
+  }
+  #fourthImage {
+    width: 650px;
+    height: 610px;
+  }
+  #thirdImage {
+    width: 650px;
+    height: 610px;
+  }
+  #secondImage {
+    width: 650px;
+    height: 610px;
+  }
+  #firstImage {
+    width: 650px;
+    height: 610px;
+  }
+  #backGroundImage {
+    width: 400px;
+    height: 500px;
+    padding: 0px;
+  }
+  #container {
+    font-size: x-large;
+    padding: 100px 0 0 0;
+  }
+  .d1 {
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-around;
+    background-color: #caccc4;
+  }
+  .d2 {
+    display: flex;
+    flex-direction: column;
+    border: 10px;
+    background-color: #caccc4;
+  }
+  .d3 {
+    display: flex;
+    flex-direction: column;
+    border: 10px;
+    background-color: #caccc4;
+  }
+  .d4 {
+    display: flex;
+    flex-direction: column;
+    background-color: #caccc4;
+  }
+  #secondImage {
+    padding: 0px 60px 10px 60px;
+  }
+  #firstImage {
+    padding: 0px 60px 10px 60px;
+  }
+  #thirdImage {
+    padding: 0px 60px 10px 60px;
+  }
+  #fourthImage {
+    padding: 0px 60px 10px 60px;
+  }
+  #secondImageName {
+    padding: 0px 60px 10px 300px;
+  }
+  #firstImageName {
+    padding: 0px 60px 10px 300px;
+  }
+  #thirdImageName {
+    padding: 0px 60px 10px 300px;
+  }
+  #ourWork {
+    padding: 0px 60px 10px 300px;
+  }
+  #d4 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    align-content: space-between;
+    justify-content: center;
+    margin: 0 300px;
+  }
+  a:hover {
+    color: rgb(87, 2, 66);
+  }
+  #viewWork {
+    text-decoration: none;
+    padding: 10px;
+    border: solid black;
+    margin-top: 20px;
+    background-color: rgb(255, 193, 243);
+    border-radius: 20px;
+  }
